@@ -1,6 +1,6 @@
----
 
-# 🌍 Palmoria Group HR Analytics — Gender Equality & Compensation Analysis
+
+## 🌍 Palmoria Group HR Analytics — Gender Equality & Compensation Analysis
 
 **Capstone Project | Digital Skillup Africa (DSA)**  
 **Author:** Isaac Oguns  
