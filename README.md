@@ -1,5 +1,5 @@
 ---
-```markdown
+
 # 🌍 Palmoria Group HR Analytics — Gender Equality & Compensation Analysis
 
 **Capstone Project | Digital Skillup Africa (DSA)**  
@@ -150,4 +150,3 @@ This project demonstrates my ability to:
 > “Now, the future of gender equality in Palmoria lies in your hands.” – Mr. Yunus Shofoluwe
 
 
-```
