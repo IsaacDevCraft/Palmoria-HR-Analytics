@@ -2,7 +2,7 @@
 
 ## 🌍 Palmoria Group HR Analytics — Gender Equality & Compensation Analysis
 
-**Capstone Project | Digital Skillup Africa (DSA)**  
+**Capstone Project 2 | Digital Skillup Africa (DSA)**  
 **Author:** Isaac Oguns  
 **GitHub:** [github.com/IsaacDevCraft](https://github.com/IsaacDevCraft)  
 **Tools Used:** Power BI, Excel  
@@ -99,7 +99,7 @@ Palmoria-HR-Analytics/
 |----------|----------------------------------------------|
 | Power BI | Dashboard development and data storytelling  |
 | Excel    | Bonus rules modeling and initial filtering   |
-| Python   | (Optional) Data preprocessing (Pandas)       |
+
 
 ---
 
