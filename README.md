@@ -1,5 +1,4 @@
 
----
 ```markdown
 # 🌍 Palmoria Group HR Analytics — Gender Equality & Compensation Analysis
 
