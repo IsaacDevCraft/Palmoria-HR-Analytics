@@ -77,15 +77,15 @@ To protect the company's expansion ambitions and public image, the CEO, Mr. Ayod
 Palmoria-HR-Analytics/
 │
 ├── data/
-│   ├── employee\_data.csv
-│   ├── bonus\_rules.xlsx
+│   ├── employee_data.csv
+│   ├── bonus_rules.xlsx
 │
 ├── dashboards/
-│   ├── palmoria\_group\_dashboard.pdf
-│   ├── palmoria\_group\_analytics.pbix
+│   ├── palmoria_group_dashboard.pdf
+│   ├── palmoria_group_analytics.pbix
 │
 ├── reports/
-│   ├── Executive\_Summary.md
+│   ├── Executive_Summary.md
 │
 └── README.md
 
@@ -147,6 +147,5 @@ This project demonstrates my ability to:
 
 ---
 
-> “Now, the future of gender equality in Palmoria lies in your hands.” – Mr. Yunus Shofoluwe
 
 
